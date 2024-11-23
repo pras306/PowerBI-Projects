@@ -40,6 +40,35 @@ This repository contains my data analysis projects which I have worked using Mic
 You can access the Power BI Report [here](coffee-sales/CoffeeSalesReport.pbix)
 
 
+### Healthcare Analysis Dashboard
+
+#### Report Link: [Link](https://app.powerbi.com/view?r=eyJrIjoiNWZlNGM4YjQtYzZiMi00MTc1LThlMjItMzJlZTQ0YWJkNWIxIiwidCI6Ijk3ODIwYmJjLTE3ZjUtNGRmYy1iNjlkLTY5ZWJjOTRhYzZiZiJ9)
+
+#### Objective
+
+- **Primary KPI's**
+    - Evaluate the average waiting of patients
+    - Patient visits on a monthly basis
+    - Total visits by department referrals
+    - Breakdown of patient visits by age group
+    - Determine average satisfaction by different age groups and patient's ethnicity
+    - Determine average wait times by different age groups and patient's ethnicity
+
+#### Key Tasks
+
+- Load dataset into Power BI. The data used for this project is [here](healthcare-analysis/Hospital%20ER.csv)
+- Open Power Query Editor and check **Column Quality, Distribution and Profile** to check for errors, duplicates and empty values
+- Create a Date table to be able to date related calculations.
+- Define Measures to calculate the required KPI's.
+- Design appropriate visuals to display the necessary information in the report.
+
+#### Outcome
+
+![Healthcare Analysis Dashboard](healthcare-analysis/HealthcareDashboard.png)
+
+You can access the Power BI Report [here](healthcare-analysis/HealthcareReport.pbix)
+
+
 ### HR Analytics Dashboard
 
 #### Report Link: [Link](https://app.powerbi.com/view?r=eyJrIjoiNmNjMGYyNTAtOWE5YS00MmJlLTkwNGYtNTAyYWM3YjBiYmFmIiwidCI6Ijk3ODIwYmJjLTE3ZjUtNGRmYy1iNjlkLTY5ZWJjOTRhYzZiZiJ9)
