@@ -56,7 +56,7 @@ The following are the files in this project.
 
 ## Project Outcome
 
-![Grocery Sales Dashboard](grocery-sales/GrocerySalesReport.png)
+![Grocery Sales Dashboard](images/GrocerySalesReport.png)
 
 You can access the Power BI Report [here](GrocerySalesReport.pbix)
 
